@@ -9,5 +9,6 @@ Following code sample shows -
 <br/>  Step 5: [Optional-for testing] Put the SNS Topic as a Target for the event rule created in Step 3
 <br/>  Step 6: Put an event with dummy data on the EventBus 
 <br/>
+<br/>  PS -
 <br/>  -you have to accept the subscription confirmation email to recieve the event notifications
 <br/>  - Update AccessKey, SecretKey & replace_me@email.com in the code below
